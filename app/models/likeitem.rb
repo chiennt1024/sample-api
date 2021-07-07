@@ -1,0 +1,2 @@
+class Likeitem < ApplicationRecord
+end
